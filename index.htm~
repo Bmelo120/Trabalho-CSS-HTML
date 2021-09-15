@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+	    <title>So marcas</title>
+	     <meta http-equiv="Content-type" content="text/html;charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="estilo.css" media="screen"/>    
+
+    </head>
+	
+<body>
+
+	<div id="geral">
+
+		<div id="topo">		<!--	IMAGEM DO TOPO DO SITE	-->
+	         <img src="Imagens/images.png" width="900" height="237" alt="" border="1">
+           </div>
+		
+                <div id="menu">
+                 
+		 <ul>
+         
+                   <li><a href="index.html" title=""class="btn_ativo"> INICIO </a></li>
+                
+                   <li><a href="local.html" title=""> LOCALIZAÇÃO </a></li>
+         
+                   <li><a href="sobre.html" title=""> COMENTARIOS </a></li>
+          
+                   <li><a href="contato.html" title=""> CONTATO </a></li>
+                  
+                   <li><a href="cadastro.html" title="" > CADASTRO </a></li>
+                   
+                   <li><a href="produto.html" title=""> PRODUTOS</a></li>
+                 
+               </u>
+
+    
+             </div>
+		
+		
+		
+			<div id="conteudoinicio">
+				
+				<p align="center">
+                                <img src="Imagens/WhatsApp Image 2017-07-03 at 23.13.43.jpeg" width="520" height="150" alt="">
+                                </p>
+                                </br>
+                                
+				<p align="center">
+                                <img src="Imagens/WhatsApp Image 2017-07-03 at 23.15.14.jpeg" width="350" height="150" alt="">
+                                </p>	
+                                 </br>
+                               <p align="center"><font size="10"> Parcelamos em ate 8x sem juros </font></p>
+                                			
+				
+			
+			</div>
+			
+			<div class="texto" id="post1">
+			
+			
+			<h2>Patrocinadores:</h2>
+			<ul>
+			<li><h4>Nike</h4></li>
+			<li><h4>Adidas</h4></li>
+			<li><h4>Puma</h4></li>
+			<li><h4>Calvin Klein</h4></li>
+      <li><h4>Capas de Facebook</h4></li>
+			</ul>
+			</div>
+			
+			<div class="texto" id="post2">
+                        <img src="Imagens/WhatsApp Image 2017-07-03 at 23.14.39.jpeg" width="438" height="300" alt="" border="1"> 
+			</div>
+		         
+			<div id="rodape"> 
+					
+			<h4>Direitos autorais || Gabriel Lucas, Bárbara Elo, Henrique Martins</h4></div>
+		</div>	
+		
+	
+	
+	
+	
+	</div>
+	
+	
+	
+</body>
+	
+	
+	
+</html>

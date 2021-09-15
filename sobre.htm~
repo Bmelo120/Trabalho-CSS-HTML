@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+	    <title>So Marcas</title>
+	    <meta http-equiv="Content-type" content="text/html;charset=utf-8"/>
+        <link rel="stylesheet" type="text/css" href="estilo.css" media="screen"/>
+
+    </head>
+	
+<body>
+
+	<div id="geral">
+
+		<div id="topo">		<!--	IMAGEM DO TOPO DO SITE	-->
+		 <img src="Imagens/images.png" width="900" height="237" alt="" border="1">
+               </div>
+		
+		<div id="menu">	<!--	PAGINA INICIAL	-->
+			<ul>
+         
+                   <li><a href="index.html" title=""> INICIO </a></li>
+         
+                    <li><a href="local.html" title=""> LOCALIZAÇÃO </a></li>
+         
+                   <li><a href="sobre.html" title="" class="btn_ativo"> COMENTARIOS </a></li>
+          
+                   <li><a href="contato.html" title=""> CONTATO </a></li>
+          
+                   <li><a href="cadastro.html" title="" > CADASTRO </a></li>
+
+                   <li><a href="produto.html" title=""> PRODUTOS</a></li>
+        
+                 </u>
+
+    
+        </div>
+		
+		<div id="curiosidades">
+		    
+			
+		<h2 align="center"><i><font color="black"> Faça seu comentario </font></i></h2>
+ 
+  <table border="1" align="center" bgcolor="grey" >
+  <tr><td>   
+<fieldset>
+
+  <form>
+
+ <table border="0" cellpadding="5" cellpacing="5">
+ <tr>
+ 
+ <td><label> O que achou do nosso site? </label></td>
+ <td><textarea cols="70" rows="30" id="sobrevoce" name="sobrevoce"></textarea></td>
+
+ </tr>
+
+</table>
+</form>
+</fieldset>
+</tr></td>
+</table>
+
+	</div>
+		
+	<div id="rodape"> 
+		
+			<h4>Direitos autorais || Gabriel Lucas, Bárbara Elo, Henrique Martins</h4></div>
+		</div>	
+		
+	
+	
+	
+</body>
+	
+</html>
